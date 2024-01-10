@@ -13,14 +13,7 @@ Use `npm i` to install dependancies. Then you can either deploy the contract dir
 
 Nondev focused binaries
 
-Linux
-https://github.com/ScryProtocol/Contracts/raw/Scry/morpheus-linux.zip
-
-MacOS
-https://github.com/ScryProtocol/Contracts/raw/Scry/morpheus-macos.zip
-
-Windows
-https://github.com/ScryProtocol/Contracts/raw/Scry/morpheus-win.exe.zip
+For users who do not wish to build from source, pre-compiled binaries for Linux, macOS, and Windows can be found on our [Releases](https://github.com/ScryProtocol/morpheus/releases) page.
 
 ## Usage
 Simply download the binaries or use the dev repo. Put your private key for your oracle signer in the .env and use morph.js to deploy. If using the binaries
